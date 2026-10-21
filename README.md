@@ -33,5 +33,5 @@ State values are estimated by averaging the observed returns for each state. Exp
 - Visualize state values using 3D graphs.
 
 This project combines an interactive card game with a practical demonstration of Monte Carlo prediction in Reinforcement Learning.
-<img width="1032" height="495" alt="image" src="https://github.com/user-attachments/assets/749eee0f-b677-4300-94e2-cc6b540aaa46" />
 
+<img width="1920" height="1080" alt="bjmcoutput" src="https://github.com/user-attachments/assets/eab92bce-6e02-4dee-b67d-e98cf1609e5f" />
